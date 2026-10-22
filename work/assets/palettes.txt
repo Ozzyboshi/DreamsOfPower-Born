@@ -1,0 +1,6 @@
+logo ($57A00, 16 colours):
+  $000 $FFF $FED $EDA $EC8 $EB6 $DA4 $D92 $D80 $B70 $A60 $850 $740 $530 $420 $210
+scroller font ($5C520, 8 colours):
+  $000 $CDD $BCC $ABB $9AA $899 $788 $677
+disks ($5E330, 8 colours):
+  $000 $35F $24C $139 $000 $888 $BBB $EEE
